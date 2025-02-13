@@ -34,7 +34,6 @@ public class Tugas2MenghitungKubus {
             }
         } while (pilihan != 4);
 
-        System.out.println("Terima kasih telah menggunakan program ini!");
         scanner.close();
     }
 
